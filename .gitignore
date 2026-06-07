@@ -1,0 +1,44 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Local user/editor state
+*.suo
+*.opensdf
+*.sdf
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+.vs/
+
+# Build output and packaged artifacts
+Debug/
+Release/
+x64/
+x86/
+Win32/
+Packages/
+StagedBuilds/
+
+# Logs and crash dumps
+*.log
+*.tmp
+*.dmp
+
+# Files too large for a normal GitHub push
+Content/SciFiBedroom/StaticMesh/EndlessJourneyFBX.uasset
+
+# Python and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
